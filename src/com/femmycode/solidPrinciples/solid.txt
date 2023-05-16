@@ -1,0 +1,17 @@
+SOLID PRINCIPLES
+
+
+➡︎ Single Responsibility
+    Each class should have a single responsibility;
+    each class should have only one sole purpose.
+
+
+➡︎ Open Closed
+    Classes should be open for extension,
+    closed for modification. An existing class shouldn't
+    be re-written to implement new features.
+
+
+➡︎ Liskov Substitution
+    Each class should have a single responsibility;
+    each class should have only one sole purpose.
