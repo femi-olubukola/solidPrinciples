@@ -1,4 +1,4 @@
-SOLID PRINCIPLES
+SOLID PRINCIPLES of OOP
 
 
 ➡︎ Single Responsibility
@@ -13,5 +13,16 @@ SOLID PRINCIPLES
 
 
 ➡︎ Liskov Substitution
-    Each class should have a single responsibility;
-    each class should have only one sole purpose.
+    Every subclass(derived class) should be substitutable for their
+    parent class(base class).
+
+
+➡︎ Interface Segregation
+    Large interfaces should be divided into small ones.
+    Interfaces shouldn't force classes to implement what they
+    can't do.
+
+
+➡︎ Dependency Inversion
+    Components should depend on abstractions, not on concretions.
+    Our classes should depend on interfaces or abstract classes.
